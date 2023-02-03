@@ -1,5 +1,3 @@
-import string
-
 items = open('items.txt', 'r')
 threshold = 0.3
 temp_result_current = open('temp_result_1.txt', 'w')
